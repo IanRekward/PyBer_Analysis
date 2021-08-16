@@ -14,7 +14,7 @@ Aggregations include,
 •	Average Fare per Ride for each city type
 •	Average Fare per Driver for city type
 
-![Chart_1](PyBer_Analysis\Final_Chart.png)
+![Chart_1](https://github.com/IanRekward/PyBer_Analysis/blob/main/Chart_1.png?raw=true)
 
 Deliverable 2: 
 Derive additional attributes based on the merged data frame from deliverable 1. Restructure the data frame using the date-time field as our index. This allows us to create a descending order pivot table of dates, ranging between the beginning of January 2019 through the end of April 2019.
@@ -22,7 +22,7 @@ Derive additional attributes based on the merged data frame from deliverable 1. 
 Results: 
 There is a definite disparity in both fares and ridership in the rural locals. Additionally, between urban, suburban, and rural, there is correlated seasonality in fares with a dip in early January, a slight increase between end of January and early February, and a dip again in early March.
 
-![Final_Chart](PyBer_Analysis\Final_Chart.png)
+![Chart_2](https://github.com/IanRekward/PyBer_Analysis/blob/main/Final_Chart.png?raw=true)
 
 Recommendations based on Analysis:
 1.	Boost Rural Fares and Rides.  The rural numbers are dramatically lower than both urban and suburban locals. Recommend implementing incentives to promote an increase in rural driver numbers. 
